@@ -1,0 +1,54 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.inputText {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+}
+
+.whitespace{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 150px;
+}
+
+.main-buttons {
+  margin: 0 auto;
+  width: 430px;
+  height: 58px;
+  padding-top: 18px;
+  padding-left: 140px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white
+    bottom: 0
+    position: fixed;
+    width: 100%;
+    margin-top: 100px;
+}
+
+.left{
+  float:left;
+}
+.right{
+  float: right;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
